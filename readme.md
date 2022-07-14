@@ -38,8 +38,8 @@ Notes:
 ## On this version of the program (win_launcher.exe) you can:
     1. Teleport your character (CTRL+T)
     2. Teleport all chars in the room to wherever you want (CTRL+B)
-    2. Teleport all enemies in the room to the player's position (CTRL+V)
-    3. Unlock the doors whenever you want (CTRL+D)
+    3. Teleport all enemies in the room to the player's position (CTRL+V)
+    4. Unlock the doors whenever you want (CTRL+D)
 
 ## Whats next
 I plan to make .sct injection, so that together with [this project](https://github.com/nadavshemesh/silver-reversing-sct) you will be able to write script files (ability to do anything the game does) and activate those whenever you want. (basically writing your own cheats and mods)
