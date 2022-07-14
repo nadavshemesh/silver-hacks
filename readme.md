@@ -43,7 +43,7 @@ _The c++ program is for windows only (sorry non-windows users)._
     3. Unlock the doors whenever you want (CTRL+D)
 
 ## Whats next
-I plan to make .sct injection, so that together with [this project](https://github.com/nadavshemesh/silver-reversing-sct) you will be able to write script files (basically do anything the game does) and activate those whenever you want. (basically writing your own cheats and mods)
+I plan to make .sct injection, so that together with [this project](https://github.com/nadavshemesh/silver-reversing-sct) you will be able to write script files (ability to do anything the game does) and activate those whenever you want. (basically writing your own cheats and mods)
 
 ## Build
 
