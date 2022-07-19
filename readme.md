@@ -26,7 +26,7 @@ On this version of the [cheat engine's table](./cheat-tables/silver_hacks.ct), y
 6. Save whenever you want (ALT+S)
 7. Vac all enemies to match the player's position (ALT+V)
 8. Change the room's state (Via the table)
-9. Create any enemy you'd like (ALT+E with spawn type in the table)
+9. Create any enemy you'd like (ALT+E with spawn type in the table, here's a [list of all enemies and their numbers](https://github.com/nadavshemesh/silver-reversing-sct/wiki/Enemies-catalog))
 10. Summon characters (Via the table & using the summon skill) - Uncheck before exiting a room!
 
 Notes:
