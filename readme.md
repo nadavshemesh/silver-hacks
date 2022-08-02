@@ -10,12 +10,12 @@ I provided a cheat engine's table and a cpp program, eventually the program will
 
 <img src="./examples/grand_fuge_edit.gif" />
 
-### Check out more GIFS [Here](./examples/examples.md)
+### Check out GIFS of hacks [Here](./examples/examples.md)
 
 #
 
 ## Cheat table
-On this version of the [cheat engine's table](./cheat-tables/silver_hacks.ct), you can:
+On this version of the [cheat engine's table](./cheat-tables/silver_hacks.CT), you can:
 
 0. Control the player's stats, make magic and abilities infinite. (Alt+1 to freeze, edit values in the table)
 1. Get all items (ALT+I, see the note below)
